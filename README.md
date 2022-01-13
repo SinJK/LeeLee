@@ -31,7 +31,10 @@ https://user-images.githubusercontent.com/24277344/149401698-2a320d7e-6d0d-4afc-
 
 ### Save your Highlighted text
 
-Press **alt+t** and `highlight` the desired text, you should then hear LeeLee reading your text in your desired language (In french in the example).
+Press **alt+s** and a pop-up window will appear with 2 parameters:
+- Name: Name of the file
+- URL(Not mandatory): If the text is issued from a website, you can add the link to the top of the file
+Once done, you can press **alt+m** to open the folder with your new and saved files with their highlighted text in it.
 
 
 https://user-images.githubusercontent.com/24277344/149404369-87320888-1f0e-4d51-a6da-98477f57caa0.mp4
