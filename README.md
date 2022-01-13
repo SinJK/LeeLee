@@ -33,7 +33,6 @@ https://user-images.githubusercontent.com/24277344/149401698-2a320d7e-6d0d-4afc-
 
 Press **alt+t** and `highlight` the desired text, you should then hear LeeLee reading your text in your desired language (In french in the example).
 
-https://user-images.githubusercontent.com/24277344/149401698-2a320d7e-6d0d-4afc-8f3a-89c238069dad.mp4
 
 
 ### Speak and get a translation
