@@ -48,6 +48,10 @@ Once done, you can press **alt+m** to open the folder with your new and saved fi
 
 
 
+https://user-images.githubusercontent.com/24277344/149415422-5dce05b5-a444-48fb-99cd-d04dcd6a14bf.mp4
+
+
+
 
 
 ### Speak and get a translation
