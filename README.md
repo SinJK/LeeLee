@@ -21,13 +21,21 @@ python main.py
 ### Read Highlighted text
 Press **alt+q** and `highlight` the desired text, you should then hear LeeLee reading your text.
 
-https://user-images.githubusercontent.com/24277344/149401268-6b13be7a-f669-4d8f-9152-4a23f1c41515.mp4
+
+
+https://user-images.githubusercontent.com/24277344/149414986-7dcdd382-9ab0-44f2-a2f9-5c9ed9cbfbc9.mp4
+
+
 
 ### Translate Highlighted text
 
 Press **alt+t** and `highlight` the desired text, you should then hear LeeLee reading your text in your desired language (In french in the example).  
 
-https://user-images.githubusercontent.com/24277344/149401698-2a320d7e-6d0d-4afc-8f3a-89c238069dad.mp4
+
+https://user-images.githubusercontent.com/24277344/149415022-1ad67009-dd35-40c0-9a8c-00c51809b8ae.mp4
+
+
+
 
 ### Save your Highlighted text
 
@@ -37,7 +45,7 @@ Press **alt+s** and a pop-up window will appear with 2 parameters:
 Once done, you can press **alt+m** to open the folder with your new and saved files with their highlighted text in it.
 
 
-https://user-images.githubusercontent.com/24277344/149404369-87320888-1f0e-4d51-a6da-98477f57caa0.mp4
+
 
 
 
