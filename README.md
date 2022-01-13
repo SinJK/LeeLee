@@ -48,3 +48,6 @@ Here the language detected are **Spanish/English/French** and the translation go
 - French to Spanish
 
 Of course you can chose the language you want/need.
+
+### How to quit
+You just have to press **ctrl+p** to exit the script.
