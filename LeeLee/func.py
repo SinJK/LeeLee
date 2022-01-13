@@ -165,11 +165,11 @@ def WriteFile(text,weburl,name2):
 
 def main():
     
-    while True:  # making a loop
+    while True:  
 
         try:
                 
-                if keyboard.is_pressed('alt+q'):  # if key 'q' is pressed
+                if keyboard.is_pressed('alt+q'):  
                     with Listener(
                         on_click=on_click
                         ) as listener:
@@ -178,19 +178,18 @@ def main():
 
 
                             
-                    # finishing the loop
-                if keyboard.is_pressed('alt+t'):  # if key 'q' is pressed
+                   
+                if keyboard.is_pressed('alt+t'): 
                         with Listener(
                             on_click=on_click
                             
-                        ) as listener:
-                            print("on est la !")
+                        ) as listener:                           
                             listener.join() 
                             print(listener)
                             translate(data)
         
                             
-                    # finishing the loop                  
+                                  
                 if keyboard.is_pressed('ctrl+p'):
                         print('quitting')
                         break
@@ -213,4 +212,4 @@ def main():
                         print(voice)
                         
         except:
-            break  # if user pressed a key other than the given key the loop will breakq
+            break 
