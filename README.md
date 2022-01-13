@@ -1,6 +1,6 @@
 # LeeLee
 
-LeeLee is an asstistant that allows you to:
+LeeLee is an assistant that allows you to:
 
 - Read you the `highlighted text` you selected
 - Translate & Read the `highlighted text` you selected
